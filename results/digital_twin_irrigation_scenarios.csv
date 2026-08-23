@@ -1,0 +1,5 @@
+Farm_ID,Irrigation_Minutes,Initial_Soil_Moisture,Predicted_Soil_Moisture
+Farm_001,0,35.0,35.0
+Farm_001,10,35.0,45.0
+Farm_001,20,35.0,55.0
+Farm_001,30,35.0,65.0
