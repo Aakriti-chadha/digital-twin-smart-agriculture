@@ -1,0 +1,5 @@
+Farm_ID,N,P,K,Temperature,Humidity,pH,Rainfall,Soil_Moisture,Recommended_Crop,Irrigation_Minutes,Predicted_Moisture
+Farm_001,90,42,43,25.0,80.0,6.5,200.0,35.0,jute,0,35.0
+Farm_001,90,42,43,25.0,80.0,6.5,200.0,35.0,jute,10,45.0
+Farm_001,90,42,43,25.0,80.0,6.5,200.0,35.0,jute,20,55.0
+Farm_001,90,42,43,25.0,80.0,6.5,200.0,35.0,jute,30,65.0
